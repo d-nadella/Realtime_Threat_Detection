@@ -17,5 +17,5 @@ This project implements a real-time threat detection system using **YOLOv8** (Yo
 ## Example Output
 > Image
 <p align="center" width="100%">
-    <img width="90%" src="https://github.com/dihitha-n/Realtime_Threat_Detection/blob/main/Images/ThreatDetectionOutput.PNG">
+    <img width="90%" src="https://github.com/dihitha-n/Realtime_Threat_Detection/blob/main/ThreatDetectionOutput.PNG">
 </p>
