@@ -1,7 +1,7 @@
 # How to Train YOLOv5 on Custom Objects
 
 ## Before you start
-Let's make sure that we have access to GPU and Install YOLOv5 using below code:
+Let's make sure that we have access to GPU and Install YOLOv5 using below code in <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/classify/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ```bash
 !git clone https://github.com/ultralytics/yolov5  # clone
